@@ -1,4 +1,3 @@
-# This is a placeholder class.
-class template {
+class n98magerun {
   anchor { 'Hello_World': }
 }
